@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently upgrading my skills.<br>I'm currently working as a software developer.<br>I have been personally involved in this field since the 9th grade, driven by a passion for technology.<br>Over the years, I’ve honed my skills in various programming languages and frameworks.<br>I am always eager to explore new technologies and methodologies to enhance my expertise.<br>My goal is to contribute to impactful projects that make a difference in the tech world.
+I'm currently upgrading my skills.<br>I'm currently working as a software Engineer .<br>I have been personally involved in this field since the 9th grade, driven by a passion for technology.<br>Over the years, I’ve honed my skills in various programming languages and frameworks.<br>I am always eager to explore new technologies and methodologies to enhance my expertise.<br>My goal is to contribute to impactful projects that make a difference in the tech world.
 
 
 ## 🌐 Socials:
