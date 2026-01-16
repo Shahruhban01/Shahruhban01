@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently upgrading my skills.<br>I'm currently working as a software Engineer .<br>I have been personally involved in this field since the 9th grade, driven by a passion for technology.<br>Over the years, I’ve honed my skills in various programming languages and frameworks.<br>I am always eager to explore new technologies and methodologies to enhance my expertise.<br>My goal is to contribute to impactful projects that make a difference in the tech world.
+Software Engineer | Continuous Learner
+I am a Software Engineer actively upgrading my skills and building real-world solutions. I’ve been involved in technology since the 9th grade, not casually, but consistently, driven by genuine curiosity and discipline.
+Over the years, I’ve worked with multiple programming languages, frameworks, and tools, focusing on writing practical, maintainable code rather than chasing hype. I regularly explore new technologies and development methodologies to improve performance, scalability, and code quality.
+My goal is simple: contribute to meaningful, impact-driven projects and grow as an engineer through hands-on problem solving.
 
 
 ## 🌐 Socials:
