@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | Continuous Learner
+## Software Engineer | Continuous Learner
 I am a Software Engineer actively upgrading my skills and building real-world solutions. I’ve been involved in technology since the 9th grade, not casually, but consistently, driven by genuine curiosity and discipline.
 Over the years, I’ve worked with multiple programming languages, frameworks, and tools, focusing on writing practical, maintainable code rather than chasing hype. I regularly explore new technologies and development methodologies to improve performance, scalability, and code quality.
 My goal is simple: contribute to meaningful, impact-driven projects and grow as an engineer through hands-on problem solving.
