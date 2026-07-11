@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-developerruhban.online-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://developerruhban.space">
-  <img src="https://img.shields.io/badge/RUHBANS-LAB-developerruhban.online-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyLAB-developerruhban.space-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
 </a>
 <a href="https://linkedin.com/in/shahruhban">
   <img src="https://img.shields.io/badge/LINKEDIN-shahruhban-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
